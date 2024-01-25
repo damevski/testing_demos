@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 - Java Development Kit (JDK), version 8 or higher
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse, or VSCode)
 
-## Setting Up JUnit 5
+## Setting Up JUnit 5 with Gradle
 
 JUnit 5 is the latest version of the popular unit testing framework for Java. To use JUnit 5 in your projects, follow these setup instructions:
 - https://junit.org/junit5/docs/current/user-guide/#running-tests-build 
