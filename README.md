@@ -5,6 +5,7 @@ Welcome to the "testing_demos" repository! This project is designed to house all
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
+- [Setting Up JUnit 5 with Gradle](#setting-up)
 - [Usage](#usage)
 - [License](#license)
 
