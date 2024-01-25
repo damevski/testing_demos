@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TemplateTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-01-23T20:58:16" hostname="EGR-G2364LCM0D" time="0.044">
+  <properties/>
+  <testcase name="paramMultipleVariables(String, String, String)[1]" classname="TemplateTest" time="0.03"/>
+  <testcase name="paramMultipleVariables(String, String, String)[2]" classname="TemplateTest" time="0.001"/>
+  <testcase name="paramMultipleVariables(String, String, String)[3]" classname="TemplateTest" time="0.001"/>
+  <testcase name="paramVariable(String)[1]" classname="TemplateTest" time="0.001"/>
+  <testcase name="paramVariable(String)[2]" classname="TemplateTest" time="0.001"/>
+  <testcase name="paramVariable(String)[3]" classname="TemplateTest" time="0.001"/>
+  <testcase name="paramVariable(String)[4]" classname="TemplateTest" time="0.0"/>
+  <testcase name="missingValueThrowsException()" classname="TemplateTest" time="0.001"/>
+  <testcase name="unknownVariablesAreIgnored()" classname="TemplateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

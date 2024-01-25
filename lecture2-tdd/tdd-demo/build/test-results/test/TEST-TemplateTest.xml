@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TemplateTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-18T21:29:26" hostname="EGR-G2364LCM0D" time="0.016">
+  <properties/>
+  <testcase name="singleVariableTest()" classname="TemplateTest" time="0.013"/>
+  <testcase name="anotherSingleVariableTest()" classname="TemplateTest" time="0.0"/>
+  <testcase name="multipleVariableTest()" classname="TemplateTest" time="0.0"/>
+  <testcase name="missingVariableThrowsException()" classname="TemplateTest" time="0.001"/>
+  <testcase name="unknownVariablesAreIgnored()" classname="TemplateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
