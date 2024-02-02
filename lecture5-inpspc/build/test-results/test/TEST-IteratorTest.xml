@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IteratorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-30T15:38:41" hostname="EGR-G2364LCM0D" time="0.01">
+  <properties/>
+  <testcase name="testBaseCase()" classname="IteratorTest" time="0.008"/>
+  <testcase name="testRemove_C2()" classname="IteratorTest" time="0.001"/>
+  <testcase name="testRemove_C3()" classname="IteratorTest" time="0.001"/>
+  <testcase name="testRemove_C4()" classname="IteratorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
